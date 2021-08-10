@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fraco2000
+- 👋 Hi, I’m @Franco2000
 - 👀 Node.JS Developer
 - 💞️ Discord: Franco#2000
 - ✨ I make Private Bots for discord Servers
